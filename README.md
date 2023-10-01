@@ -6,13 +6,15 @@ This project aims for the program to use and utilise the ability of Computer vis
 
 ## Steps for Contribution:-
 
-1. User should create a separate folder named after their project and it should contain the main program file named `main.py` and other data files accordingly.
+1. Upload your files accordingly to Languages Folders.
+ 
+2. User should create a separate folder named after their project and it should contain the main program file named `main.__` and other data files accordingly.
 
-2. Program should be executable with any system, if specific versions are required then mention them in the file.
+3. Program should be executable with any system, if specific versions are required then mention them in the file.
 
-3. For installation of modules, create a `requirement.txt` file with modules and its versions
+4. For installation of modules, create a `requirement.txt` file with modules and its versions
 
-4. If program executes properly on our tests, then PR will be accepted.
+5. If program executes properly on our tests, then PR will be accepted.
 
 **These steps must be followed to have an Acceptable PR.
 
