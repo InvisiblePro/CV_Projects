@@ -1,1 +1,1 @@
-Python projects and file should go accordling in this folder
+Python projects and files should go accordingly in this folder
