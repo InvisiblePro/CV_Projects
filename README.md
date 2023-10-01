@@ -4,6 +4,9 @@ This Repo is based on Computer Vision Projects. Using Cameras and Vision devices
 
 This project aims for the program to use and utilise the ability of Computer vision with AI and ML algorithms to innovate new technology. 
 
+
+Contribution in all languages are welcomed here ✨
+
 ## Steps for Contribution:-
 
 1. Upload your files accordingly to Languages Folders.
