@@ -26,7 +26,7 @@ This project could contribute to and plan the future roadmap for advancement in 
 All contributors are gratefully welcomed ✨
 
 ### Note:
-1. Fake PR will not be accepted and Invalid based on activity will be marked as `invalid``.
+1. Fake PR will not be accpeted or invalid based on activity will be marked as `invalid`.
 
 2. We may ask to update/change the program if it includes bugs, which will be marked as `bugs`
 
