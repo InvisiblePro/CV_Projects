@@ -47,4 +47,4 @@ All contributors are gratefully welcomed ✨
 
 
 ![Static Badge](https://img.shields.io/badge/Owner-InvisiblePro-purple?logo=github)
-![Static Badge](https://img.shields.io/badge/Hacktoberfest--Accpeted-cyan)
+![Static Badge](https://img.shields.io/badge/Hacktoberfest--Accepted-cyan)
