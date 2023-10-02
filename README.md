@@ -9,14 +9,14 @@ Contributions in various programming languages are wholeheartedly welcomed ✨
 <div align="center">
 
 <img src="https://img.shields.io/badge/Hacktoberfest-2023-blue" alt="Hacktober Badge"/>
- <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star"/>
- <a href="https://github.com/pralinkhaira" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?logo=github" alt="Contributions" /></a>
- <a href="https://github.com/pralinkhaira1903" ><img src="https://img.shields.io/badge/Hacktoberfest--Accepted-blue" alt="HF2k23" /></a>
- <a href="https://github.com/pralinkhaira/Project-Wizard/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/pralinkhaira/Project-Wizard" alt="PR's Merged"/></a>
+ <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If you like it&color=800080" alt="Star"/>
+ <a href="https://github.com/InvisiblePro/" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?logo=github" alt="Contributions" /></a>
+ <a href="https://github.com/InvisiblePro/" ><img src="https://img.shields.io/badge/Hacktoberfest--Accepted-blue" alt="HF2k23" /></a>
+ 
  
  <a href="https://github.com/InvisiblePro/CV_Projects/graphs/contributors">
  <img alt="GitHub Gontributors" src="https://img.shields.io/github/contributors/InvisiblePro/CV_Projects?color=00008b"></a>
- <a href="https://github.com/pralinkhaira/Project-Wizard/blob/master/LICENSE"><img src="https://img.shields.io/github/license/InvisiblePro/CV_Projects?color=00bfff" alt="License Badge"/></a>
+ <a href="https://github.com/InvisiblePro/CVV_Projects/blob/master/LICENSE"><img src="https://img.shields.io/github/license/InvisiblePro/CV_Projects?color=00bfff" alt="License Badge"/></a>
 
 </div>
 
