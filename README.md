@@ -16,7 +16,7 @@ Contributions in various programming languages are wholeheartedly welcomed ✨
  
  <a href="https://github.com/InvisiblePro/CV_Projects/graphs/contributors">
  <img alt="GitHub Gontributors" src="https://img.shields.io/github/contributors/InvisiblePro/CV_Projects?color=00008b"></a>
- <a href="https://github.com/InvisiblePro/CVV_Projects/blob/master/LICENSE"><img src="https://img.shields.io/github/license/InvisiblePro/CV_Projects?color=00bfff" alt="License Badge"/></a>
+ <a href="https://github.com/InvisiblePro/CV_Projects/blob/master/LICENSE"><img src="https://img.shields.io/github/license/InvisiblePro/CV_Projects?color=00bfff" alt="License Badge"/></a>
 
 </div>
 
