@@ -57,9 +57,17 @@ We eagerly invite all contributors to join us in building a brighter future with
 
 ## Appreciation for Contributors ✨
 
+### Tools and Languages:
+
+[<img alt="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="40px" />](https://code.visualstudio.com/) &nbsp;&nbsp;[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="40px" />](https://www.python.org/) &nbsp;&nbsp;[<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA" width="40px">](https://www.java.com/en/)&nbsp;&nbsp;
+[<img alt="Github" src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-logo-png-transparent.png" width="45px" />](https://github.com/)
+<br>
+
+### Contributors: 
 <a href="https://github.com/InvisiblePro/CV_Projects/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=InvisiblePro/CV_Projects" />
 </a>
+
 <br>
 <br/>
 
