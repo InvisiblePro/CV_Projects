@@ -45,6 +45,7 @@ This project holds the potential to shape the future of Computer Vision technolo
 
 We eagerly invite all contributors to join us in building a brighter future with Computer Vision technology. ✨
 
+<!--
 ### Note:
 1. **Valid PRs Only**: To maintain the quality of our repository, we only accept valid pull requests. Fake PRs or those with minimal activity will be marked as `invalid`.
 
@@ -55,7 +56,7 @@ We eagerly invite all contributors to join us in building a brighter future with
 ## Hacktoberfest 2023
 #### We are thrilled to announce that this Project is an official participant in Hacktoberfest 2023, celebrating its 10th anniversary!
 <img src="https://hacktoberfest.com/_next/static/media/opengraph.e5fafe07.png" width=500 height="225"/>
-
+-->
 ## Appreciation for Contributors ✨
 
 ### Tools and Languages:
